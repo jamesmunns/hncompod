@@ -1,0 +1,12 @@
+[package]
+name = "hncompod"
+version = "0.1.0"
+authors = ["James Munns <james.munns@gmail.com>"]
+
+[dependencies]
+reqwest = "0.2"
+regex = "0.2"
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
+rayon = "*"
